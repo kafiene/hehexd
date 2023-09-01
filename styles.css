@@ -184,7 +184,7 @@ main {
   border-radius: 50%;
   top: calc(50% - 25px);
   left: calc(76.7%);
-  animation: rotate 20s linear infinite; /* Adjust animation duration and properties */
+  animation: rotate 25s linear infinite; /* Adjust animation duration and properties */
 }
 
 @keyframes rotate {
